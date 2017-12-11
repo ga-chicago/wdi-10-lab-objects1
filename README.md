@@ -34,7 +34,7 @@ Example:
 ## Me
 
 1. Create an empty object called `me`.<br>
-2. Assign it properties for **name**, **age**, and **email** with corresponding values.<br>
+2. Assign it properties for **myName**, **age**, and **email** with corresponding values.<br>
 
 The object would look something like this if we console logged it:
 
@@ -45,7 +45,7 @@ console.log(me);
 > => {name: "Reuben", age: 98, email: "Reuben@foo.bar"}
 
 
-3. Using dot notation, access the **name** property in your object.<br>
+3. Using dot notation, access the **myName** property in your object.<br>
 4. Without writing directly into the object, update the value of **age** to be 1000 years old.<br>
 5. Using dot notation, verify that **age** has been updated.<br>
 6. Add a key to this object called: "place of residence" and give it a value of your hometown. Note that the key has spaces, therefore you cannot use dot notation.
